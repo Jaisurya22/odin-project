@@ -1,0 +1,2 @@
+I am learning Git through The Odin Project.
+This is my first Git repository.
